@@ -1,0 +1,49 @@
+.color-defined {
+    color: #C3552F;
+}
+
+.border-defined {
+    border: 1px solid #C3552F;
+}
+
+.list-inline {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    max-width: 400px;
+    margin: 60px auto;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #C3552F;
+    color: white;
+    text-align: center;
+}
+
+.header-background {
+    /*background-color: #C3552F;*/
+}
+
+.panel-height{
+    max-height: 200px;
+    vertical-align: middle;
+}
+
+.col-md-2{
+   max-height: 300px;
+   vertical-align: middle;
+   
+}
+
+.img{
+    width: 175px;
+    height: 300px;
+}
